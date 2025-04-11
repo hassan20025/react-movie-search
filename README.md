@@ -16,5 +16,5 @@ Users can search for movies, view posters, and add movies to a favorites page.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/react-movie-search.git
+git clone https://github.com/hassan20025/react-movie-search.git
 cd react-movie-search
